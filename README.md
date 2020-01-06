@@ -2,6 +2,7 @@
  A list of resources concerning front-end web development.
 
 - **Testing and accessibility**
+	- https://wcag.nl/
 	- https://validator.w3.org/
 	- https://squizlabs.github.io/HTML_CodeSniffer/
 	- https://khan.github.io/tota11y/
@@ -22,7 +23,7 @@
 	- Empty
 - **Learning Vue**
 	- Empty
-- **Learning Design**
+- **Learning UI Design**
 	- Empty
 - **Learning Design Systems**
 	- https://seesparkbox.com/foundry/designing_for_design_systems
