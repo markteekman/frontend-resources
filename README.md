@@ -8,6 +8,7 @@
 	- https://khan.github.io/tota11y/
 	- https://github.com/GoogleChromeLabs/ProjectVisBug
 	- https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector
+	- https://hacks.mozilla.org/2019/09/webhint-in-firefox-devtools-improve-compatibility-accessibility-and-more/
 - **Learning HTML**
 	- https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
 	- https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
@@ -17,15 +18,23 @@
 	- https://mastery.games/p/flexbox-zombies
 	- https://sass-lang.com/blog/the-module-system-is-launched
 	- https://dev.to/huijing/understanding-positioning-in-css-7mn
+  - https://cssguidelin.es/
+  - https://sass-guidelin.es/
 - **Learning JavaScript**
-	- Empty
+	- https://learnjavascript.today/
+  - https://gist.github.com/joyrexus/7307312
+  - https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 - **Learning Gulp**
 	- Empty
 - **Learning Vue**
 	- Empty
 - **Learning UI Design**
-	- Empty
+	- https://refactoringui.com/
 - **Learning Design Systems**
 	- https://seesparkbox.com/foundry/designing_for_design_systems
 - **Practice**
 	- https://www.keybr.com/
+- **Tools**
+  - https://github.com/alyssaxuu/flowy
+- **Inspiration**
+  - https://tympanus.net/codrops/
