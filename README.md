@@ -20,6 +20,7 @@
 	- https://dev.to/huijing/understanding-positioning-in-css-7mn
 	- https://cssguidelin.es/
 	- https://sass-guidelin.es/
+  - https://wattenberger.com/blog/css-cascade
 - **Learning JavaScript**
 	- https://learnjavascript.today/
 	- https://gist.github.com/joyrexus/7307312
@@ -32,13 +33,16 @@
 	- https://www.designbetter.co/
 	- https://refactoringui.com/
 - **Learning Design Systems**
+  - https://designsystemchecklist.com/
 	- https://www.designbetter.co/design-systems-handbook
 	- https://seesparkbox.com/foundry/designing_for_design_systems
 - **Practice**
 	- https://www.keybr.com/
 - **Tools**
+  - https://browserdefaultstyles.com/
 	- https://github.com/alyssaxuu/flowy
 - **Inspiration**
+  - https://tiny-helpers.dev/
 	- https://klart.io/pixels
 	- https://tympanus.net/codrops/
 - **Atom Packages**
