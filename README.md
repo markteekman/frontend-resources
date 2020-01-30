@@ -21,6 +21,7 @@
 	- https://cssguidelin.es/
 	- https://sass-guidelin.es/
   - https://wattenberger.com/blog/css-cascade
+  - https://sass-lang.com/documentation/style-rules/declarations#custom-properties
 - **Learning JavaScript**
 	- https://learnjavascript.today/
 	- https://gist.github.com/joyrexus/7307312
@@ -41,6 +42,7 @@
 - **Tools**
   - https://browserdefaultstyles.com/
 	- https://github.com/alyssaxuu/flowy
+  - https://source.unsplash.com/
 - **Inspiration**
   - https://tiny-helpers.dev/
 	- https://klart.io/pixels
