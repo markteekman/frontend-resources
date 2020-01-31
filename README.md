@@ -21,6 +21,7 @@
 	- https://cssguidelin.es/
 	- https://sass-guidelin.es/
   - https://wattenberger.com/blog/css-cascade
+  - https://dev.to/emmawedekind/css-specificity-1kca
   - https://sass-lang.com/documentation/style-rules/declarations#custom-properties
 - **Learning JavaScript**
 	- https://learnjavascript.today/
