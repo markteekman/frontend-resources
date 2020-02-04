@@ -1,3 +1,4 @@
+
 # FrontendResources
  A list of resources concerning front-end web development.
 
@@ -9,6 +10,7 @@
 	- https://github.com/GoogleChromeLabs/ProjectVisBug
 	- https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector
 	- https://hacks.mozilla.org/2019/09/webhint-in-firefox-devtools-improve-compatibility-accessibility-and-more/
+  - https://seesparkbox.com/foundry/semantic_tags_aria_attributes_descriptive_links_for_website_accessibility
 - **Learning HTML**
 	- https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
 	- https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
@@ -48,6 +50,7 @@
   - https://tiny-helpers.dev/
 	- https://klart.io/pixels
 	- https://tympanus.net/codrops/
+  - https://codepen.io/oliviale/full/xxboXzo
 - **Atom Packages**
 	- https://atom.io/packages/advanced-open-file
 	- https://atom.io/packages/atom-css-comb
