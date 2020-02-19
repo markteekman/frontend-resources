@@ -11,6 +11,7 @@
 	- https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector
 	- https://hacks.mozilla.org/2019/09/webhint-in-firefox-devtools-improve-compatibility-accessibility-and-more/
   - https://seesparkbox.com/foundry/semantic_tags_aria_attributes_descriptive_links_for_website_accessibility
+  - https://adamsilver.io/articles/building-an-accessible-autocomplete-control/
 - **Learning HTML**
 	- https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
 	- https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
@@ -25,6 +26,7 @@
   - https://wattenberger.com/blog/css-cascade
   - https://dev.to/emmawedekind/css-specificity-1kca
   - https://sass-lang.com/documentation/style-rules/declarations#custom-properties
+  - https://ishadeed.com/article/learn-css-positioning/
 - **Learning JavaScript**
 	- https://learnjavascript.today/
 	- https://gist.github.com/joyrexus/7307312
