@@ -38,6 +38,8 @@
 - **Learning UI Design**
 	- https://www.designbetter.co/
 	- https://refactoringui.com/
+  - https://learnui.design/
+  - https://radicaldesigncourse.com/
 - **Learning Design Systems**
   - https://designsystemchecklist.com/
 	- https://www.designbetter.co/design-systems-handbook
