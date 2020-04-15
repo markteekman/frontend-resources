@@ -14,7 +14,8 @@
   - https://seesparkbox.com/foundry/semantic_tags_aria_attributes_descriptive_links_for_website_accessibility
   - https://adamsilver.io/articles/building-an-accessible-autocomplete-control/
 - **Learning HTML**
-	- https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
+	- https://9elements.com/bem-cheat-sheet/
+  - https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
 	- https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
 - **Learning CSS**
 	- https://css-animations.io/
@@ -29,7 +30,8 @@
   - https://sass-lang.com/documentation/style-rules/declarations#custom-properties
   - https://ishadeed.com/article/learn-css-positioning/
 - **Learning JavaScript**
-	- https://learnjavascript.today/
+	- https://htmldom.dev/
+  - https://learnjavascript.today/
 	- https://gist.github.com/joyrexus/7307312
 	- https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 - **Learning Gulp**
