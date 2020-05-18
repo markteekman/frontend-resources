@@ -65,6 +65,7 @@
   - https://blush.design/
   - https://www.drawkit.io/
   - https://undraw.co/
+  - https://logoipsum.com/
 - **Atom Packages**
 	- https://atom.io/packages/advanced-open-file
 	- https://atom.io/packages/atom-css-comb
