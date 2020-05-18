@@ -29,6 +29,8 @@
   - https://dev.to/emmawedekind/css-specificity-1kca
   - https://sass-lang.com/documentation/style-rules/declarations#custom-properties
   - https://ishadeed.com/article/learn-css-positioning/
+  - https://moderncss.dev/totally-custom-list-styles/
+  - https://learn.shayhowe.com/advanced-html-css/complex-selectors/
 - **Learning JavaScript**
 	- https://htmldom.dev/
   - https://learnjavascript.today/
@@ -59,6 +61,10 @@
 	- https://tympanus.net/codrops/
   - https://codepen.io/oliviale/full/xxboXzo
   - https://webflow.com/discover/popular#recent
+- **Design Resources**
+  - https://blush.design/
+  - https://www.drawkit.io/
+  - https://undraw.co/
 - **Atom Packages**
 	- https://atom.io/packages/advanced-open-file
 	- https://atom.io/packages/atom-css-comb
