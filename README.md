@@ -55,6 +55,7 @@
   - https://browserdefaultstyles.com/
 	- https://github.com/alyssaxuu/flowy
   - https://source.unsplash.com/
+  - https://www.shapedivider.app/
 - **Inspiration**
   - https://tiny-helpers.dev/
 	- https://klart.io/pixels
