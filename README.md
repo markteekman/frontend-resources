@@ -67,6 +67,7 @@
   - https://www.drawkit.io/
   - https://undraw.co/
   - https://logoipsum.com/
+  - https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/
 - **Atom Packages**
 	- https://atom.io/packages/advanced-open-file
 	- https://atom.io/packages/atom-css-comb
