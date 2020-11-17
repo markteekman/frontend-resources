@@ -31,6 +31,7 @@
   - https://ishadeed.com/article/learn-css-positioning/
   - https://moderncss.dev/totally-custom-list-styles/
   - https://learn.shayhowe.com/advanced-html-css/complex-selectors/
+  - https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/
 - **Learning JavaScript**
 	- https://htmldom.dev/
   - https://learnjavascript.today/
@@ -58,8 +59,8 @@
   - https://www.shapedivider.app/
 - **Inspiration**
   - https://tiny-helpers.dev/
-	- https://klart.io/pixels
-	- https://tympanus.net/codrops/
+  - https://klart.io/pixels
+  - https://tympanus.net/codrops/
   - https://codepen.io/oliviale/full/xxboXzo
   - https://webflow.com/discover/popular#recent
 - **Design Resources**
