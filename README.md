@@ -52,6 +52,7 @@
 	- https://seesparkbox.com/foundry/designing_for_design_systems
 - **Practice**
 	- https://www.keybr.com/
+	- https://bezier.method.ac/
 - **Tools**
   - https://browserdefaultstyles.com/
 	- https://github.com/alyssaxuu/flowy
