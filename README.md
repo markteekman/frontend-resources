@@ -3,28 +3,28 @@
  A list of resources concerning front-end web development.
 
 - **Testing and accessibility**
-	- https://wcag.nl/
+  - https://wcag.nl/
   - https://wave.webaim.org/
-	- https://validator.w3.org/
-	- https://squizlabs.github.io/HTML_CodeSniffer/
-	- https://khan.github.io/tota11y/
-	- https://github.com/GoogleChromeLabs/ProjectVisBug
-	- https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector
-	- https://hacks.mozilla.org/2019/09/webhint-in-firefox-devtools-improve-compatibility-accessibility-and-more/
+  - https://validator.w3.org/
+  - https://squizlabs.github.io/HTML_CodeSniffer/
+  - https://khan.github.io/tota11y/
+  - https://github.com/GoogleChromeLabs/ProjectVisBug
+  - https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector
+  - https://hacks.mozilla.org/2019/09/webhint-in-firefox-devtools-improve-compatibility-accessibility-and-more/
   - https://seesparkbox.com/foundry/semantic_tags_aria_attributes_descriptive_links_for_website_accessibility
   - https://adamsilver.io/articles/building-an-accessible-autocomplete-control/
 - **Learning HTML**
-	- https://9elements.com/bem-cheat-sheet/
+  - https://9elements.com/bem-cheat-sheet/
   - https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
-	- https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
+  - https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
 - **Learning CSS**
-	- https://css-animations.io/
-	- https://flukeout.github.io/
-	- https://mastery.games/p/flexbox-zombies
-	- https://sass-lang.com/blog/the-module-system-is-launched
-	- https://dev.to/huijing/understanding-positioning-in-css-7mn
-	- https://cssguidelin.es/
-	- https://sass-guidelin.es/
+  - https://css-animations.io/
+  - https://flukeout.github.io/
+  - https://mastery.games/p/flexbox-zombies
+  - https://sass-lang.com/blog/the-module-system-is-launched
+  - https://dev.to/huijing/understanding-positioning-in-css-7mn
+  - https://cssguidelin.es/
+  - https://sass-guidelin.es/
   - https://wattenberger.com/blog/css-cascade
   - https://dev.to/emmawedekind/css-specificity-1kca
   - https://sass-lang.com/documentation/style-rules/declarations#custom-properties
@@ -33,29 +33,29 @@
   - https://learn.shayhowe.com/advanced-html-css/complex-selectors/
   - https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/
 - **Learning JavaScript**
-	- https://htmldom.dev/
+  - https://htmldom.dev/
   - https://learnjavascript.today/
-	- https://gist.github.com/joyrexus/7307312
-	- https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
+  - https://gist.github.com/joyrexus/7307312
+  - https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
 - **Learning Gulp**
-	- https://www.youtube.com/watch?v=QgMQeLymAdU
+  - https://www.youtube.com/watch?v=QgMQeLymAdU
 - **Learning Vue**
-	- https://vueschool.io/?ref=blog
+  - https://vueschool.io/?ref=blog
 - **Learning UI Design**
-	- https://www.designbetter.co/
-	- https://refactoringui.com/
+  - https://www.designbetter.co/
+  - https://refactoringui.com/
   - https://learnui.design/
   - https://radicaldesigncourse.com/
 - **Learning Design Systems**
   - https://designsystemchecklist.com/
-	- https://www.designbetter.co/design-systems-handbook
-	- https://seesparkbox.com/foundry/designing_for_design_systems
+  - https://www.designbetter.co/design-systems-handbook
+  - https://seesparkbox.com/foundry/designing_for_design_systems
 - **Practice**
-	- https://www.keybr.com/
-	- https://bezier.method.ac/
+  - https://www.keybr.com/
+  - https://bezier.method.ac/
 - **Tools**
   - https://browserdefaultstyles.com/
-	- https://github.com/alyssaxuu/flowy
+  - https://github.com/alyssaxuu/flowy
   - https://source.unsplash.com/
   - https://www.shapedivider.app/
 - **Inspiration**
@@ -71,36 +71,36 @@
   - https://logoipsum.com/
   - https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/
 - **Atom Packages**
-	- https://atom.io/packages/advanced-open-file
-	- https://atom.io/packages/atom-css-comb
-	- https://atom.io/packages/atom-ternjs
-	- https://atom.io/packages/atom-wrap-in-tag
-	- https://atom.io/packages/autoclose-html
-	- https://atom.io/packages/busy-signal
-	- https://atom.io/packages/color-picker
-	- https://atom.io/packages/css-snippets
-	- https://atom.io/packages/emmet ❗
-	- https://atom.io/packages/file-icons
-	- https://atom.io/packages/highlight-colors
-	- https://atom.io/packages/highlight-line
-	- https://atom.io/packages/highlight-selected
-	- https://atom.io/packages/intentions
-	- https://atom.io/packages/jumpy
-	- https://atom.io/packages/language-blade
-	- https://atom.io/packages/language-vue
-	- https://atom.io/packages/linter
-	- https://atom.io/packages/linter-htmlhint
-	- https://atom.io/packages/linter-js-standard
-	- https://atom.io/packages/linter-php
-	- https://atom.io/packages/linter-stylelint
-	- https://atom.io/packages/linter-ui-default
-	- https://atom.io/packages/minimap
-	- https://atom.io/packages/multifile-rename
-	- https://atom.io/packages/open-recent
-	- https://atom.io/packages/platformio-ide-terminal ❗
-	- https://atom.io/packages/remote-sync
-	- https://atom.io/packages/standard-formatter
-	- https://atom.io/packages/tabs-to-spaces
-	- https://atom.io/packages/tree-view-auto-collapse
+  - https://atom.io/packages/advanced-open-file
+  - https://atom.io/packages/atom-css-comb
+  - https://atom.io/packages/atom-ternjs
+  - https://atom.io/packages/atom-wrap-in-tag
+  - https://atom.io/packages/autoclose-html
+  - https://atom.io/packages/busy-signal
+  - https://atom.io/packages/color-picker
+  - https://atom.io/packages/css-snippets
+  - https://atom.io/packages/emmet ❗
+  - https://atom.io/packages/file-icons
+  - https://atom.io/packages/highlight-colors
+  - https://atom.io/packages/highlight-line
+  - https://atom.io/packages/highlight-selected
+  - https://atom.io/packages/intentions
+  - https://atom.io/packages/jumpy
+  - https://atom.io/packages/language-blade
+  - https://atom.io/packages/language-vue
+  - https://atom.io/packages/linter
+  - https://atom.io/packages/linter-htmlhint
+  - https://atom.io/packages/linter-js-standard
+  - https://atom.io/packages/linter-php
+  - https://atom.io/packages/linter-stylelint
+  - https://atom.io/packages/linter-ui-default
+  - https://atom.io/packages/minimap
+  - https://atom.io/packages/multifile-rename
+  - https://atom.io/packages/open-recent
+  - https://atom.io/packages/platformio-ide-terminal ❗
+  - https://atom.io/packages/remote-sync
+  - https://atom.io/packages/standard-formatter
+  - https://atom.io/packages/tabs-to-spaces
+  - https://atom.io/packages/tree-view-auto-collapse
 
 ❗= essentials
