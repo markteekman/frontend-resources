@@ -32,6 +32,7 @@
   - https://moderncss.dev/totally-custom-list-styles/
   - https://learn.shayhowe.com/advanced-html-css/complex-selectors/
   - https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/
+  - https://css-tricks.com/animate-different-end-states-using-one-set-css-keyframes/
 - **Learning JavaScript**
   - https://htmldom.dev/
   - https://learnjavascript.today/
