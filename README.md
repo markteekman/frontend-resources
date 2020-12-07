@@ -13,6 +13,11 @@
   - https://hacks.mozilla.org/2019/09/webhint-in-firefox-devtools-improve-compatibility-accessibility-and-more/
   - https://seesparkbox.com/foundry/semantic_tags_aria_attributes_descriptive_links_for_website_accessibility
   - https://adamsilver.io/articles/building-an-accessible-autocomplete-control/
+  - https://fymmot.github.io/inclusive-dates/
+  - https://a11yresources.webflow.io/
+  - https://comica11y.humaan.com/
+  - https://gerireid.com/forms.html
+  - https://inclusive-components.design/
 - **Learning HTML**
   - https://9elements.com/bem-cheat-sheet/
   - https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
@@ -33,11 +38,18 @@
   - https://learn.shayhowe.com/advanced-html-css/complex-selectors/
   - https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/
   - https://css-tricks.com/animate-different-end-states-using-one-set-css-keyframes/
+  - https://moderncss.dev/
+  - https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/
+  - https://www.youtube.com/watch?v=biOMz4puGt8&feature=youtu.be
+  - https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/?mc_cid=dc1f45ab23&mc_eid=f481edc5e2
+  - https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/
+  - https://thisthat.dev/
 - **Learning JavaScript**
   - https://htmldom.dev/
   - https://learnjavascript.today/
   - https://gist.github.com/joyrexus/7307312
   - https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
+  - https://denic.hashnode.dev/use-consolelog-like-a-pro
 - **Learning Gulp**
   - https://www.youtube.com/watch?v=QgMQeLymAdU
 - **Learning Vue**
@@ -51,6 +63,7 @@
   - https://designsystemchecklist.com/
   - https://www.designbetter.co/design-systems-handbook
   - https://seesparkbox.com/foundry/designing_for_design_systems
+  - https://designsystemsforfigma.com/
 - **Practice**
   - https://www.keybr.com/
   - https://bezier.method.ac/
@@ -59,18 +72,24 @@
   - https://github.com/alyssaxuu/flowy
   - https://source.unsplash.com/
   - https://www.shapedivider.app/
+  - https://www.magicpattern.design/tools/css-backgrounds
+  - https://yqnn.github.io/svg-path-editor/
+  - https://squircley.app/
+  - https://blobs.app/
 - **Inspiration**
   - https://tiny-helpers.dev/
   - https://klart.io/pixels
   - https://tympanus.net/codrops/
   - https://codepen.io/oliviale/full/xxboXzo
   - https://webflow.com/discover/popular#recent
+  - https://www.landingfolio.com/
 - **Design Resources**
   - https://blush.design/
   - https://www.drawkit.io/
   - https://undraw.co/
   - https://logoipsum.com/
   - https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/
+  - https://www.pixeltrue.com/free-illustrations
 - **Atom Packages**
   - https://atom.io/packages/advanced-open-file
   - https://atom.io/packages/atom-css-comb
@@ -103,5 +122,8 @@
   - https://atom.io/packages/standard-formatter
   - https://atom.io/packages/tabs-to-spaces
   - https://atom.io/packages/tree-view-auto-collapse
+- **Extra's**
+  - https://keyboardsimulator.xyz/
+  - https://ctjs.rocks/
 
 ❗= essentials
