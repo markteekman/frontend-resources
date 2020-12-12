@@ -2,22 +2,6 @@
 # FrontendResources
  A list of resources concerning front-end web development.
 
-- **Testing and accessibility**
-  - https://wcag.nl/
-  - https://wave.webaim.org/
-  - https://validator.w3.org/
-  - https://squizlabs.github.io/HTML_CodeSniffer/
-  - https://khan.github.io/tota11y/
-  - https://github.com/GoogleChromeLabs/ProjectVisBug
-  - https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector
-  - https://hacks.mozilla.org/2019/09/webhint-in-firefox-devtools-improve-compatibility-accessibility-and-more/
-  - https://seesparkbox.com/foundry/semantic_tags_aria_attributes_descriptive_links_for_website_accessibility
-  - https://adamsilver.io/articles/building-an-accessible-autocomplete-control/
-  - https://fymmot.github.io/inclusive-dates/
-  - https://a11yresources.webflow.io/
-  - https://comica11y.humaan.com/
-  - https://gerireid.com/forms.html
-  - https://inclusive-components.design/
 - **Learning HTML**
   - https://9elements.com/bem-cheat-sheet/
   - https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
@@ -50,6 +34,35 @@
   - https://gist.github.com/joyrexus/7307312
   - https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
   - https://denic.hashnode.dev/use-consolelog-like-a-pro
+- **Testing and accessibility**
+  - https://wcag.nl/
+  - https://wave.webaim.org/
+  - https://validator.w3.org/
+  - https://squizlabs.github.io/HTML_CodeSniffer/
+  - https://khan.github.io/tota11y/
+  - https://github.com/GoogleChromeLabs/ProjectVisBug
+  - https://developer.mozilla.org/en-US/docs/Tools/Accessibility_inspector
+  - https://hacks.mozilla.org/2019/09/webhint-in-firefox-devtools-improve-compatibility-accessibility-and-more/
+  - https://seesparkbox.com/foundry/semantic_tags_aria_attributes_descriptive_links_for_website_accessibility
+  - https://adamsilver.io/articles/building-an-accessible-autocomplete-control/
+  - https://fymmot.github.io/inclusive-dates/
+  - https://a11yresources.webflow.io/
+  - https://comica11y.humaan.com/
+  - https://gerireid.com/forms.html
+  - https://inclusive-components.design/
+- **Learning VIM**
+  - https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85
+  - https://danielmiessler.com/study/vim/
+  - https://www.openvim.com/tutorial.html
+  - http://www.vimgenius.com/
+  - https://vim-adventures.com
+  - https://vimvalley.com/
+  - https://www.tecmint.com/learn-vi-commands-with-pacvim-game/
+  - https://laracasts.com/series/vim-mastery
+  - https://www.barbarianmeetscoding.com/blog/2019/02/08/boost-your-coding-fu-with-vscode-and-vim
+  - https://www.youtube.com/playlist?list=PLnc_NxpmOxaNqdGvUg8RBi8ZTaZGPdqBD
+  - https://www.youtube.com/watch?v=l-FKO2UXFdk
+  - https://www.youtube.com/watch?v=SO9Sre5v6NA
 - **Learning Gulp**
   - https://www.youtube.com/watch?v=QgMQeLymAdU
 - **Learning Vue**
