@@ -118,6 +118,7 @@
   - https://www.stefanjudis.com/today-i-learned/
   - https://onepagelove.com/inspiration/landing-page
   - https://www.landingfolio.com/
+  - https://github.com/bradtraversy/50projects50days
 - **Design Resources**
   - https://blush.design/
   - https://www.drawkit.io/
