@@ -28,6 +28,14 @@
   - https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/?mc_cid=dc1f45ab23&mc_eid=f481edc5e2
   - https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/
   - https://thisthat.dev/
+- **Advanced CSS techniques**
+  - https://ishadeed.com/article/css-scroll-snap/
+  - https://codersblock.com/blog/what-can-you-put-in-a-css-variable/
+  - https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/?mc_cid=dc1f45ab23&mc_eid=f481edc5e2
+  - https://ishadeed.com/article/css-min-max-clamp/
+  - https://ishadeed.com/article/clip-path/
+  - https://ishadeed.com/article/css-short-long-content/
+  - https://www.albertwalicki.com/fall-in-love-with-single-div-images
 - **Learning JavaScript**
   - https://htmldom.dev/
   - https://learnjavascript.today/
@@ -50,6 +58,11 @@
   - https://comica11y.humaan.com/
   - https://gerireid.com/forms.html
   - https://inclusive-components.design/
+- **Email Coding**
+  - https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4
+  - https://thebetter.email/design/
+  - https://mjml.io/
+  - https://useparcel.com/
 - **Learning VIM**
   - https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85
   - https://danielmiessler.com/study/vim/
@@ -81,6 +94,8 @@
   - https://www.keybr.com/
   - https://bezier.method.ac/
 - **Tools**
+  - https://caniuse.com/
+  - https://www.caniemail.com/
   - https://browserdefaultstyles.com/
   - https://github.com/alyssaxuu/flowy
   - https://source.unsplash.com/
@@ -89,12 +104,19 @@
   - https://yqnn.github.io/svg-path-editor/
   - https://squircley.app/
   - https://blobs.app/
+  - https://doodad.dev/pattern-generator/
+  - https://omatsuri.app/
+  - https://brumm.af/shadows
 - **Inspiration**
   - https://tiny-helpers.dev/
   - https://klart.io/pixels
   - https://tympanus.net/codrops/
   - https://codepen.io/oliviale/full/xxboXzo
   - https://webflow.com/discover/popular#recent
+  - https://www.landingfolio.com/
+  - https://timetravel.pixelfika.com/
+  - https://www.stefanjudis.com/today-i-learned/
+  - https://onepagelove.com/inspiration/landing-page
   - https://www.landingfolio.com/
 - **Design Resources**
   - https://blush.design/
