@@ -7,6 +7,7 @@
   - https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
   - https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
 - **Learning CSS**
+  - https://moderncss.dev
   - https://css-animations.io/
   - https://flukeout.github.io/
   - https://mastery.games/p/flexbox-zombies
@@ -18,7 +19,6 @@
   - https://dev.to/emmawedekind/css-specificity-1kca
   - https://sass-lang.com/documentation/style-rules/declarations#custom-properties
   - https://ishadeed.com/article/learn-css-positioning/
-  - https://moderncss.dev/totally-custom-list-styles/
   - https://learn.shayhowe.com/advanced-html-css/complex-selectors/
   - https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/
   - https://css-tricks.com/animate-different-end-states-using-one-set-css-keyframes/
@@ -42,6 +42,7 @@
   - https://gist.github.com/joyrexus/7307312
   - https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
   - https://denic.hashnode.dev/use-consolelog-like-a-pro
+  - https://github.com/ryanmcdermott/clean-code-javascript
 - **Testing and accessibility**
   - https://wcag.nl/
   - https://wave.webaim.org/
@@ -85,6 +86,7 @@
   - https://refactoringui.com/
   - https://learnui.design/
   - https://radicaldesigncourse.com/
+  - https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
 - **Learning Design Systems**
   - https://designsystemchecklist.com/
   - https://www.designbetter.co/design-systems-handbook
@@ -107,6 +109,7 @@
   - https://doodad.dev/pattern-generator/
   - https://omatsuri.app/
   - https://brumm.af/shadows
+  - https://www.svgwaves.io
 - **Inspiration**
   - https://tiny-helpers.dev/
   - https://klart.io/pixels
