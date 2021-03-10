@@ -27,6 +27,7 @@
   - https://www.youtube.com/watch?v=biOMz4puGt8&feature=youtu.be
   - https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/?mc_cid=dc1f45ab23&mc_eid=f481edc5e2
   - https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/
+  - https://ishadeed.com/article/understanding-z-index/
   - https://thisthat.dev/
 - **Advanced CSS techniques**
   - https://ishadeed.com/article/css-scroll-snap/
@@ -110,6 +111,8 @@
   - https://omatsuri.app/
   - https://brumm.af/shadows
   - https://www.svgwaves.io
+  - https://ray.so
+  - https://www.svgrepo.com
 - **Inspiration**
   - https://tiny-helpers.dev/
   - https://klart.io/pixels
