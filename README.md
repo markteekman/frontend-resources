@@ -8,6 +8,7 @@
   - https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
 - **Learning CSS**
   - https://moderncss.dev
+  - https://every-layout.dev
   - https://css-animations.io/
   - https://flukeout.github.io/
   - https://mastery.games/p/flexbox-zombies
@@ -22,7 +23,6 @@
   - https://learn.shayhowe.com/advanced-html-css/complex-selectors/
   - https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/
   - https://css-tricks.com/animate-different-end-states-using-one-set-css-keyframes/
-  - https://moderncss.dev/
   - https://stephaniewalter.design/blog/enhancing-user-experience-with-css-animations/
   - https://www.youtube.com/watch?v=biOMz4puGt8&feature=youtu.be
   - https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/?mc_cid=dc1f45ab23&mc_eid=f481edc5e2
@@ -37,6 +37,7 @@
   - https://ishadeed.com/article/clip-path/
   - https://ishadeed.com/article/css-short-long-content/
   - https://www.albertwalicki.com/fall-in-love-with-single-div-images
+  - https://www.joshwcomeau.com/animation/css-transitions/
 - **Learning JavaScript**
   - https://htmldom.dev/
   - https://learnjavascript.today/
@@ -113,6 +114,10 @@
   - https://www.svgwaves.io
   - https://ray.so
   - https://www.svgrepo.com
+  - https://responsively.app
+  - https://plaiceholder.co
+  - https://bennettfeely.com/clippy/
+  - https://form.taxi/en
 - **Inspiration**
   - https://tiny-helpers.dev/
   - https://klart.io/pixels
@@ -125,6 +130,8 @@
   - https://onepagelove.com/inspiration/landing-page
   - https://www.landingfolio.com/
   - https://github.com/bradtraversy/50projects50days
+  - https://tinyblocks.cc
+  - https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/
 - **Design Resources**
   - https://blush.design/
   - https://www.drawkit.io/
