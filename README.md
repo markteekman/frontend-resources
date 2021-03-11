@@ -11,6 +11,7 @@
   - https://every-layout.dev
   - https://css-animations.io/
   - https://flukeout.github.io/
+  - https://wattenberger.com/blog/css-percents
   - https://mastery.games/p/flexbox-zombies
   - https://sass-lang.com/blog/the-module-system-is-launched
   - https://dev.to/huijing/understanding-positioning-in-css-7mn
