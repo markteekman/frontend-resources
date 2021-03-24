@@ -6,6 +6,7 @@
   - https://9elements.com/bem-cheat-sheet/
   - https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
   - https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
+  - https://getfrontend.tips/all.html
 - **Learning CSS**
   - https://moderncss.dev
   - https://every-layout.dev
@@ -29,6 +30,7 @@
   - https://www.hsablonniere.com/prevent-layout-shifts-with-css-grid-stacks--qcj5jo/?mc_cid=dc1f45ab23&mc_eid=f481edc5e2
   - https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/
   - https://ishadeed.com/article/understanding-z-index/
+  - https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3
   - https://thisthat.dev/
 - **Advanced CSS techniques**
   - https://ishadeed.com/article/css-scroll-snap/
@@ -39,13 +41,17 @@
   - https://ishadeed.com/article/css-short-long-content/
   - https://www.albertwalicki.com/fall-in-love-with-single-div-images
   - https://www.joshwcomeau.com/animation/css-transitions/
+  - https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/
+  - https://css-tricks.com/exploring-property-and-its-animating-powers/
 - **Learning JavaScript**
   - https://htmldom.dev/
+  - https://1loc.dev
   - https://learnjavascript.today/
   - https://gist.github.com/joyrexus/7307312
   - https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/
   - https://denic.hashnode.dev/use-consolelog-like-a-pro
   - https://github.com/ryanmcdermott/clean-code-javascript
+  - https://www.joshwcomeau.com/operator-lookup/
 - **Testing and accessibility**
   - https://wcag.nl/
   - https://wave.webaim.org/
@@ -90,6 +96,7 @@
   - https://learnui.design/
   - https://radicaldesigncourse.com/
   - https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
+  - https://www.zeichenschatz.net/typography/font-follows-feeling
 - **Learning Design Systems**
   - https://designsystemchecklist.com/
   - https://www.designbetter.co/design-systems-handbook
