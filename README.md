@@ -126,6 +126,7 @@
   - https://plaiceholder.co
   - https://bennettfeely.com/clippy/
   - https://form.taxi/en
+  - https://www.svgbackgrounds.com/
 - **Inspiration**
   - https://tiny-helpers.dev/
   - https://klart.io/pixels
