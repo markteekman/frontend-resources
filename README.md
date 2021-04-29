@@ -7,6 +7,7 @@
   - https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
   - https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
   - https://getfrontend.tips/all.html
+
 - **Learning CSS**
   - https://moderncss.dev
   - https://every-layout.dev
@@ -32,6 +33,7 @@
   - https://ishadeed.com/article/understanding-z-index/
   - https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3
   - https://thisthat.dev/
+
 - **Advanced CSS techniques**
   - https://ishadeed.com/article/css-scroll-snap/
   - https://codersblock.com/blog/what-can-you-put-in-a-css-variable/
@@ -43,6 +45,7 @@
   - https://www.joshwcomeau.com/animation/css-transitions/
   - https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/
   - https://css-tricks.com/exploring-property-and-its-animating-powers/
+
 - **Learning JavaScript**
   - https://htmldom.dev/
   - https://1loc.dev
@@ -52,6 +55,7 @@
   - https://denic.hashnode.dev/use-consolelog-like-a-pro
   - https://github.com/ryanmcdermott/clean-code-javascript
   - https://www.joshwcomeau.com/operator-lookup/
+
 - **Testing and accessibility**
   - https://wcag.nl/
   - https://wave.webaim.org/
@@ -68,11 +72,13 @@
   - https://comica11y.humaan.com/
   - https://gerireid.com/forms.html
   - https://inclusive-components.design/
+
 - **Email Coding**
   - https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4
   - https://thebetter.email/design/
   - https://mjml.io/
   - https://useparcel.com/
+
 - **Learning VIM**
   - https://medium.com/actualize-network/how-to-learn-vim-a-four-week-plan-cd8b376a9b85
   - https://danielmiessler.com/study/vim/
@@ -86,10 +92,13 @@
   - https://www.youtube.com/playlist?list=PLnc_NxpmOxaNqdGvUg8RBi8ZTaZGPdqBD
   - https://www.youtube.com/watch?v=l-FKO2UXFdk
   - https://www.youtube.com/watch?v=SO9Sre5v6NA
+
 - **Learning Gulp**
   - https://www.youtube.com/watch?v=QgMQeLymAdU
+
 - **Learning Vue**
   - https://vueschool.io/?ref=blog
+
 - **Learning UI Design**
   - https://www.designbetter.co/
   - https://refactoringui.com/
@@ -97,14 +106,17 @@
   - https://radicaldesigncourse.com/
   - https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
   - https://www.zeichenschatz.net/typography/font-follows-feeling
-- **Learning Design Systems**
+
+- **Design Systems**
   - https://designsystemchecklist.com/
   - https://www.designbetter.co/design-systems-handbook
   - https://seesparkbox.com/foundry/designing_for_design_systems
   - https://designsystemsforfigma.com/
+
 - **Practice**
   - https://www.keybr.com/
   - https://bezier.method.ac/
+
 - **Tools**
   - https://caniuse.com/
   - https://www.caniemail.com/
@@ -127,6 +139,7 @@
   - https://bennettfeely.com/clippy/
   - https://form.taxi/en
   - https://www.svgbackgrounds.com/
+
 - **Inspiration**
   - https://tiny-helpers.dev/
   - https://klart.io/pixels
@@ -141,6 +154,7 @@
   - https://github.com/bradtraversy/50projects50days
   - https://tinyblocks.cc
   - https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/
+
 - **Design Resources**
   - https://blush.design/
   - https://www.drawkit.io/
@@ -148,6 +162,7 @@
   - https://logoipsum.com/
   - https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/
   - https://www.pixeltrue.com/free-illustrations
+
 - **Atom Packages**
   - https://atom.io/packages/advanced-open-file
   - https://atom.io/packages/atom-css-comb
@@ -157,7 +172,7 @@
   - https://atom.io/packages/busy-signal
   - https://atom.io/packages/color-picker
   - https://atom.io/packages/css-snippets
-  - https://atom.io/packages/emmet ❗
+  - https://atom.io/packages/emmet
   - https://atom.io/packages/file-icons
   - https://atom.io/packages/highlight-colors
   - https://atom.io/packages/highlight-line
@@ -175,13 +190,12 @@
   - https://atom.io/packages/minimap
   - https://atom.io/packages/multifile-rename
   - https://atom.io/packages/open-recent
-  - https://atom.io/packages/platformio-ide-terminal ❗
+  - https://atom.io/packages/platformio-ide-terminal
   - https://atom.io/packages/remote-sync
   - https://atom.io/packages/standard-formatter
   - https://atom.io/packages/tabs-to-spaces
   - https://atom.io/packages/tree-view-auto-collapse
+
 - **Extra's**
   - https://keyboardsimulator.xyz/
   - https://ctjs.rocks/
-
-❗= essentials
