@@ -139,6 +139,7 @@
   - https://bennettfeely.com/clippy/
   - https://form.taxi/en
   - https://www.svgbackgrounds.com/
+  - https://www.30secondsofcode.org/
 
 - **Inspiration**
   - https://tiny-helpers.dev/
