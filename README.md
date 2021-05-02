@@ -117,6 +117,10 @@
   - https://www.keybr.com/
   - https://bezier.method.ac/
 
+- **Code Snippets**
+  - https://github.com/markteekman/tiny-code
+  - https://www.30secondsofcode.org/
+
 - **Tools**
   - https://caniuse.com/
   - https://www.caniemail.com/
@@ -139,7 +143,6 @@
   - https://bennettfeely.com/clippy/
   - https://form.taxi/en
   - https://www.svgbackgrounds.com/
-  - https://www.30secondsofcode.org/
 
 - **Inspiration**
   - https://tiny-helpers.dev/
