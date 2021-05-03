@@ -55,6 +55,7 @@
   - https://denic.hashnode.dev/use-consolelog-like-a-pro
   - https://github.com/ryanmcdermott/clean-code-javascript
   - https://www.joshwcomeau.com/operator-lookup/
+  - https://javascript30.com
 
 - **Testing and accessibility**
   - https://wcag.nl/
