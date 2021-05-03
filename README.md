@@ -56,6 +56,7 @@
   - https://github.com/ryanmcdermott/clean-code-javascript
   - https://www.joshwcomeau.com/operator-lookup/
   - https://javascript30.com
+  - https://1loc.dev
 
 - **Testing and accessibility**
   - https://wcag.nl/
