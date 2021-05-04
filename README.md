@@ -45,6 +45,8 @@
   - https://www.joshwcomeau.com/animation/css-transitions/
   - https://christianheilmann.com/2021/03/13/conditional-animation-with-css-properties/
   - https://css-tricks.com/exploring-property-and-its-animating-powers/
+  - https://calibreapp.com/blog/css-performance
+  - https://ishadeed.com/article/handling-text-over-image-css/
 
 - **Learning JavaScript**
   - https://htmldom.dev/
@@ -74,6 +76,8 @@
   - https://comica11y.humaan.com/
   - https://gerireid.com/forms.html
   - https://inclusive-components.design/
+  - https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/
+  - https://www.voorhoede.nl/nl/blog/why-skip-links-are-important-for-accessibility/
 
 - **Email Coding**
   - https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4
@@ -114,6 +118,7 @@
   - https://www.designbetter.co/design-systems-handbook
   - https://seesparkbox.com/foundry/designing_for_design_systems
   - https://designsystemsforfigma.com/
+  - https://component.gallery
 
 - **Practice**
   - https://www.keybr.com/
@@ -145,6 +150,14 @@
   - https://bennettfeely.com/clippy/
   - https://form.taxi/en
   - https://www.svgbackgrounds.com/
+  - https://www.transition.style/
+  - https://pavellaptev.github.io/warp-svg/
+  - https://svgartista.net
+  - https://www.svgator.com
+  - https://svgjs.com/docs/3.0/
+  - https://www.smashingmagazine.com/2021/03/svg-generators/
+  - https://gitexplorer.com
+  - https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/
 
 - **Inspiration**
   - https://tiny-helpers.dev/
@@ -205,3 +218,4 @@
 - **Extra's**
   - https://keyboardsimulator.xyz/
   - https://ctjs.rocks/
+  - https://kaboomjs.com
