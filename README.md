@@ -47,6 +47,8 @@
   - https://css-tricks.com/exploring-property-and-its-animating-powers/
   - https://calibreapp.com/blog/css-performance
   - https://ishadeed.com/article/handling-text-over-image-css/
+  - https://ishadeed.com/article/practical-css-variables/
+  - https://markodenic.com/css-tips/
 
 - **Learning JavaScript**
   - https://htmldom.dev/
@@ -78,6 +80,8 @@
   - https://inclusive-components.design/
   - https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/
   - https://www.voorhoede.nl/nl/blog/why-skip-links-are-important-for-accessibility/
+  - https://practical-accessibility.today
+  - https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/
 
 - **Email Coding**
   - https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4
@@ -158,6 +162,7 @@
   - https://www.smashingmagazine.com/2021/03/svg-generators/
   - https://gitexplorer.com
   - https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/
+  - https://fluid-typography.netlify.app
 
 - **Inspiration**
   - https://tiny-helpers.dev/
@@ -219,3 +224,4 @@
   - https://keyboardsimulator.xyz/
   - https://ctjs.rocks/
   - https://kaboomjs.com
+  - https://www.frontendpractice.com
