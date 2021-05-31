@@ -33,6 +33,7 @@
   - https://ishadeed.com/article/understanding-z-index/
   - https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3
   - https://thisthat.dev/
+  - https://web.dev/learn/css/
 
 - **Advanced CSS techniques**
   - https://ishadeed.com/article/css-scroll-snap/
@@ -82,6 +83,7 @@
   - https://www.voorhoede.nl/nl/blog/why-skip-links-are-important-for-accessibility/
   - https://practical-accessibility.today
   - https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/
+  - https://www.smashingmagazine.com/2021/03/good-better-best-untangling-complex-world-accessible-patterns/
 
 - **Email Coding**
   - https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4
@@ -116,6 +118,7 @@
   - https://radicaldesigncourse.com/
   - https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
   - https://www.zeichenschatz.net/typography/font-follows-feeling
+  - https://growth.design/psychology/
 
 - **Design Systems**
   - https://designsystemchecklist.com/
@@ -163,6 +166,7 @@
   - https://gitexplorer.com
   - https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/
   - https://fluid-typography.netlify.app
+  - https://www.haroldjs.com
 
 - **Inspiration**
   - https://tiny-helpers.dev/
