@@ -34,6 +34,7 @@
   - https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3
   - https://thisthat.dev/
   - https://web.dev/learn/css/
+  - https://mozilladevelopers.github.io/playground/css-grid/
 
 - **Advanced CSS techniques**
   - https://ishadeed.com/article/css-scroll-snap/
@@ -50,6 +51,7 @@
   - https://ishadeed.com/article/handling-text-over-image-css/
   - https://ishadeed.com/article/practical-css-variables/
   - https://markodenic.com/css-tips/
+  - https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/
 
 - **Learning JavaScript**
   - https://htmldom.dev/
@@ -84,6 +86,8 @@
   - https://practical-accessibility.today
   - https://technology.blog.gov.uk/2020/02/24/why-the-gov-uk-design-system-team-changed-the-input-type-for-numbers/
   - https://www.smashingmagazine.com/2021/03/good-better-best-untangling-complex-world-accessible-patterns/
+  - https://css-tricks.com/front-end-testing-is-for-everyone/
+  - https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/
 
 - **Email Coding**
   - https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4
@@ -119,6 +123,7 @@
   - https://medium.com/ux-in-motion/creating-usability-with-motion-the-ux-in-motion-manifesto-a87a4584ddc
   - https://www.zeichenschatz.net/typography/font-follows-feeling
   - https://growth.design/psychology/
+  - https://fifty.user-interface.io/50_ui_tips.pdf
 
 - **Design Systems**
   - https://designsystemchecklist.com/
@@ -167,6 +172,7 @@
   - https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/
   - https://fluid-typography.netlify.app
   - https://www.haroldjs.com
+  - https://www.happyhues.co
 
 - **Inspiration**
   - https://tiny-helpers.dev/
@@ -191,41 +197,9 @@
   - https://www.lapa.ninja/blog/free-illustrations-library-for-your-project/
   - https://www.pixeltrue.com/free-illustrations
 
-- **Atom Packages**
-  - https://atom.io/packages/advanced-open-file
-  - https://atom.io/packages/atom-css-comb
-  - https://atom.io/packages/atom-ternjs
-  - https://atom.io/packages/atom-wrap-in-tag
-  - https://atom.io/packages/autoclose-html
-  - https://atom.io/packages/busy-signal
-  - https://atom.io/packages/color-picker
-  - https://atom.io/packages/css-snippets
-  - https://atom.io/packages/emmet
-  - https://atom.io/packages/file-icons
-  - https://atom.io/packages/highlight-colors
-  - https://atom.io/packages/highlight-line
-  - https://atom.io/packages/highlight-selected
-  - https://atom.io/packages/intentions
-  - https://atom.io/packages/jumpy
-  - https://atom.io/packages/language-blade
-  - https://atom.io/packages/language-vue
-  - https://atom.io/packages/linter
-  - https://atom.io/packages/linter-htmlhint
-  - https://atom.io/packages/linter-js-standard
-  - https://atom.io/packages/linter-php
-  - https://atom.io/packages/linter-stylelint
-  - https://atom.io/packages/linter-ui-default
-  - https://atom.io/packages/minimap
-  - https://atom.io/packages/multifile-rename
-  - https://atom.io/packages/open-recent
-  - https://atom.io/packages/platformio-ide-terminal
-  - https://atom.io/packages/remote-sync
-  - https://atom.io/packages/standard-formatter
-  - https://atom.io/packages/tabs-to-spaces
-  - https://atom.io/packages/tree-view-auto-collapse
-
 - **Extra's**
   - https://keyboardsimulator.xyz/
   - https://ctjs.rocks/
   - https://kaboomjs.com
   - https://www.frontendpractice.com
+  - https://yare.io
