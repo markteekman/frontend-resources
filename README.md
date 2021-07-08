@@ -52,6 +52,7 @@
   - https://ishadeed.com/article/practical-css-variables/
   - https://markodenic.com/css-tips/
   - https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/
+  - https://ishadeed.com/article/custom-scrollbars-css/
 
 - **Learning JavaScript**
   - https://htmldom.dev/
@@ -88,6 +89,7 @@
   - https://www.smashingmagazine.com/2021/03/good-better-best-untangling-complex-world-accessible-patterns/
   - https://css-tricks.com/front-end-testing-is-for-everyone/
   - https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/
+  - https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/
 
 - **Email Coding**
   - https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4
