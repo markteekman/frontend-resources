@@ -175,6 +175,8 @@
   - https://fluid-typography.netlify.app
   - https://www.haroldjs.com
   - https://www.happyhues.co
+  - https://haikei.app/
+  - https://astro.build/
 
 - **Inspiration**
   - https://tiny-helpers.dev/
