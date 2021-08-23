@@ -1,5 +1,5 @@
 
-# FrontendResources
+# Frontend Resources
  A list of resources concerning front-end web development.
 
 - **Learning HTML**
@@ -53,6 +53,7 @@
   - https://markodenic.com/css-tips/
   - https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/
   - https://ishadeed.com/article/custom-scrollbars-css/
+  - https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/
 
 - **Learning JavaScript**
   - https://htmldom.dev/
