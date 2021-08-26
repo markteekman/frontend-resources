@@ -145,6 +145,7 @@
 
 - **Tools**
   - https://caniuse.com/
+  - https://whocanuse.com/
   - https://www.caniemail.com/
   - https://browserdefaultstyles.com/
   - https://github.com/alyssaxuu/flowy
@@ -178,6 +179,7 @@
   - https://www.happyhues.co
   - https://haikei.app/
   - https://astro.build/
+  - https://flagpack.xyz/
 
 - **Inspiration**
   - https://tiny-helpers.dev/
@@ -208,3 +210,4 @@
   - https://kaboomjs.com
   - https://www.frontendpractice.com
   - https://yare.io
+  - https://godotengine.org/
