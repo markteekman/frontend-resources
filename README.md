@@ -35,6 +35,9 @@
   - https://thisthat.dev/
   - https://web.dev/learn/css/
   - https://mozilladevelopers.github.io/playground/css-grid/
+  - https://cssgridgarden.com/?mc_cid=3192c5c130&mc_eid=f481edc5e2#nl
+  - http://www.flexboxdefense.com/?mc_cid=3192c5c130&mc_eid=f481edc5e2
+  - https://css-tricks.com/a-complete-guide-to-custom-properties/
 
 - **Advanced CSS techniques**
   - https://ishadeed.com/article/css-scroll-snap/
@@ -54,6 +57,9 @@
   - https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/
   - https://ishadeed.com/article/custom-scrollbars-css/
   - https://css-tricks.com/conjuring-generative-blobs-with-the-css-paint-api/
+  - https://www.joshwcomeau.com/animation/3d-button/
+  - https://www.joshwcomeau.com/css/transforms/
+  - https://www.joshwcomeau.com/animation/keyframe-animations/
 
 - **Learning JavaScript**
   - https://htmldom.dev/
@@ -211,3 +217,4 @@
   - https://www.frontendpractice.com
   - https://yare.io
   - https://godotengine.org/
+  - https://lab.reaal.me/jsrobot/?mc_cid=3192c5c130&mc_eid=f481edc5e2#level=1&language=en
