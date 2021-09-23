@@ -75,6 +75,7 @@
 
 - **Testing and accessibility**
   - https://wcag.nl/
+  - https://design-system.w3.org/
   - https://wave.webaim.org/
   - https://validator.w3.org/
   - https://squizlabs.github.io/HTML_CodeSniffer/
@@ -117,6 +118,7 @@
   - https://www.youtube.com/playlist?list=PLnc_NxpmOxaNqdGvUg8RBi8ZTaZGPdqBD
   - https://www.youtube.com/watch?v=l-FKO2UXFdk
   - https://www.youtube.com/watch?v=SO9Sre5v6NA
+  - http://vimcasts.org/training/core-vim-course/
 
 - **Learning Gulp**
   - https://www.youtube.com/watch?v=QgMQeLymAdU
@@ -140,6 +142,7 @@
   - https://seesparkbox.com/foundry/designing_for_design_systems
   - https://designsystemsforfigma.com/
   - https://component.gallery
+  - https://design-system.w3.org/
 
 - **Practice**
   - https://www.keybr.com/
