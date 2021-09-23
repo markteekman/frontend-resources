@@ -153,6 +153,7 @@
   - https://caniuse.com/
   - https://whocanuse.com/
   - https://www.caniemail.com/
+  - https://caninclude.glitch.me/
   - https://browserdefaultstyles.com/
   - https://github.com/alyssaxuu/flowy
   - https://source.unsplash.com/
