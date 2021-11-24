@@ -190,6 +190,7 @@
   - https://haikei.app/
   - https://astro.build/
   - https://flagpack.xyz/
+  - https://www.joshwcomeau.com/shadow-palette/
 
 - **Inspiration**
   - https://tiny-helpers.dev/
