@@ -38,6 +38,7 @@
   - https://cssgridgarden.com/?mc_cid=3192c5c130&mc_eid=f481edc5e2#nl
   - http://www.flexboxdefense.com/?mc_cid=3192c5c130&mc_eid=f481edc5e2
   - https://css-tricks.com/a-complete-guide-to-custom-properties/
+  - https://web.dev/learn/css/
 
 - **Advanced CSS techniques**
   - https://ishadeed.com/article/css-scroll-snap/
@@ -147,6 +148,7 @@
 - **Practice**
   - https://www.keybr.com/
   - https://bezier.method.ac/
+  - https://regexlearn.com/
 
 - **Code Snippets**
   - https://github.com/markteekman/tiny-code
@@ -191,6 +193,8 @@
   - https://astro.build/
   - https://flagpack.xyz/
   - https://www.joshwcomeau.com/shadow-palette/
+  - https://www.tldraw.com/
+  - https://fffuel.co/nnnoise/
 
 - **Inspiration**
   - https://tiny-helpers.dev/
