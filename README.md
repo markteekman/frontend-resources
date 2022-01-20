@@ -195,6 +195,11 @@
   - https://www.joshwcomeau.com/shadow-palette/
   - https://www.tldraw.com/
   - https://fffuel.co/nnnoise/
+  - https://fffuel.co/ssshape/
+  - https://fffuel.co/nnneon/
+  - https://doodleipsum.com/
+  - https://atroposjs.com/
+  - https://motion.dev
 
 - **Inspiration**
   - https://tiny-helpers.dev/
