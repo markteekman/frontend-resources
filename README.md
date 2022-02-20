@@ -61,6 +61,7 @@
   - https://www.joshwcomeau.com/animation/3d-button/
   - https://www.joshwcomeau.com/css/transforms/
   - https://www.joshwcomeau.com/animation/keyframe-animations/
+  - https://www.joshwcomeau.com/css/make-beautiful-gradients/
 
 - **Learning JavaScript**
   - https://htmldom.dev/
@@ -126,6 +127,8 @@
 
 - **Learning Vue**
   - https://vueschool.io/?ref=blog
+  - https://accessible-vue.com/read/
+  - https://logaretm.com/blog/making-the-most-out-of-vuejs-injections/
 
 - **Learning UI Design**
   - https://www.designbetter.co/
