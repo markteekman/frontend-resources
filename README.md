@@ -62,6 +62,8 @@
   - https://www.joshwcomeau.com/css/transforms/
   - https://www.joshwcomeau.com/animation/keyframe-animations/
   - https://www.joshwcomeau.com/css/make-beautiful-gradients/
+  - https://ishadeed.com/article/learn-css-subgrid/
+  - https://polypane.app/blog/where-is-has-new-css-selectors-that-make-your-life-easier/
 
 - **Learning JavaScript**
   - https://htmldom.dev/
@@ -74,6 +76,7 @@
   - https://www.joshwcomeau.com/operator-lookup/
   - https://javascript30.com
   - https://1loc.dev
+  - https://egghead.io/courses/your-ultimate-guide-to-understanding-dom-events-6c0c0d23
 
 - **Testing and accessibility**
   - https://wcag.nl/
@@ -100,6 +103,7 @@
   - https://css-tricks.com/front-end-testing-is-for-everyone/
   - https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/
   - https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/
+  - https://web.dev/building-a-button-component/
 
 - **Email Coding**
   - https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4
@@ -203,6 +207,11 @@
   - https://doodleipsum.com/
   - https://atroposjs.com/
   - https://motion.dev
+  - https://domevents.dev/
+  - https://letsenhance.io/
+  - https://reasonable.work/colors/
+  - https://pika.style/
+  - https://cleanup.pictures/
 
 - **Inspiration**
   - https://tiny-helpers.dev/
@@ -218,6 +227,7 @@
   - https://github.com/bradtraversy/50projects50days
   - https://tinyblocks.cc
   - https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/
+  - https://www.insanelyusefulwebsites.com/
 
 - **Design Resources**
   - https://blush.design/
