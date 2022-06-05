@@ -64,6 +64,7 @@
   - https://www.joshwcomeau.com/css/make-beautiful-gradients/
   - https://ishadeed.com/article/learn-css-subgrid/
   - https://polypane.app/blog/where-is-has-new-css-selectors-that-make-your-life-easier/
+  - https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/#naming-css-classes
 
 - **Learning JavaScript**
   - https://htmldom.dev/
@@ -156,6 +157,7 @@
   - https://www.keybr.com/
   - https://bezier.method.ac/
   - https://regexlearn.com/
+  - https://ohmygit.org/
 
 - **Code Snippets**
   - https://github.com/markteekman/tiny-code
@@ -212,6 +214,7 @@
   - https://reasonable.work/colors/
   - https://pika.style/
   - https://cleanup.pictures/
+  - https://www.scriptkit.com/
 
 - **Inspiration**
   - https://tiny-helpers.dev/
