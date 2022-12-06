@@ -7,6 +7,7 @@
   - https://www.codecademy.com/courses/learn-html/lessons/html-forms/exercises/forms-intro
   - https://www.codecademy.com/courses/learn-html/lessons/semantic-html/exercises/introduction-to-semantic-html
   - https://getfrontend.tips/all.html
+  - https://web.dev/learn/html/
 
 - **Learning CSS**
   - https://moderncss.dev
@@ -65,6 +66,7 @@
   - https://ishadeed.com/article/learn-css-subgrid/
   - https://polypane.app/blog/where-is-has-new-css-selectors-that-make-your-life-easier/
   - https://blog.frankmtaylor.com/2021/10/21/a-small-guide-for-naming-stuff-in-front-end-code/#naming-css-classes
+  - https://tilda.education/en/web-animation-course
 
 - **Learning JavaScript**
   - https://htmldom.dev/
@@ -78,6 +80,9 @@
   - https://javascript30.com
   - https://1loc.dev
   - https://egghead.io/courses/your-ultimate-guide-to-understanding-dom-events-6c0c0d23
+  
+- **Learning TypeScript**
+  - https://www.totaltypescript.com/tutorials/beginners-typescript
 
 - **Testing and accessibility**
   - https://wcag.nl/
@@ -105,6 +110,7 @@
   - https://www.smashingmagazine.com/2021/06/css-javascript-requirements-accessible-components/
   - https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/
   - https://web.dev/building-a-button-component/
+  - https://web.dev/learn/accessibility/
 
 - **Email Coding**
   - https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4
@@ -127,12 +133,9 @@
   - https://www.youtube.com/watch?v=SO9Sre5v6NA
   - http://vimcasts.org/training/core-vim-course/
 
-- **Learning Gulp**
-  - https://www.youtube.com/watch?v=QgMQeLymAdU
-
 - **Learning Vue**
   - https://vueschool.io/?ref=blog
-  - https://accessible-vue.com/read/
+  - https://accessible-vue.com/
   - https://logaretm.com/blog/making-the-most-out-of-vuejs-injections/
 
 - **Learning UI Design**
