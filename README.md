@@ -111,6 +111,7 @@
   - https://www.smashingmagazine.com/2021/06/complete-guide-accessibility-tooling/
   - https://web.dev/building-a-button-component/
   - https://web.dev/learn/accessibility/
+  - https://www.a11yproject.com/checklist/
 
 - **Email Coding**
   - https://explore.reallygoodemails.com/new-to-email-coding-heres-where-to-start-2494422f0bd4
